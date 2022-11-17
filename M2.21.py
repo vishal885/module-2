@@ -9,7 +9,8 @@ def string_empty(str):
 
   return str[0:2] + str[-2:]
 print(string_empty("vishal"))
-print(string_empty("vk"))
+print(string_empty("vik"))
 print(string_empty("v"))
 
-
+
+

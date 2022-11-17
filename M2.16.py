@@ -5,4 +5,4 @@ str2=input("Enter Second String : ")
 print('separated by sapace :',str1+'  '+str2)
 x=str2[:2]+str1[2:]
 y=str1[:2]+str2[2:]
-print("swap first two char: ",x+''+y)
+print("swap first two char: ",x+' '+y)
